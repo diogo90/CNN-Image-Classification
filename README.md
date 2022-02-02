@@ -1,1 +1,3 @@
 # CNN-Image-Classification
+
+This is a self-development project geared towards gaining a practical understanding on how to deploy a CNN for binary classification problems within healthcare using tensorflow. It broadened my understanding on how to pre-process image data suitable for ingestion by a CNN and how to gradually fine tune and build a sequential CNN. Without great lengths, the notebook explains the reasoning behind the chosen steps for: data pre-processing, image augmentation and CNN training. Aside from the technical implementation it enabled me to get the hang on how to develop a solution that can support health care professionals. References to all resources used that helped me further my knowledge on the topic are listed below. 
